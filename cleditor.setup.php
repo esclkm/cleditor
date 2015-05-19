@@ -3,7 +3,7 @@
 [BEGIN_COT_EXT]
 Code=cleditor
 Name=CLEditor
-Category=editor
+Category=editor-parser
 Description=Plain-source BBcode/HTML editor using jQuery. Only one content editor should be enabled or there may be conflicts.
 Version=0.9.3
 Date=2011-dec-16
